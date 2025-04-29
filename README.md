@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a9ebdbd8-ffbc-4784-bad9-4f97bd6e0878)# ICLR 2025-Papers-about-Autonomous-Driving-and-Embodied-AI
+# ICLR 2025-Papers-about-Autonomous-Driving-and-Embodied-AI
 
 ## (1) Embodied Intelligence and Robot Learning
 
